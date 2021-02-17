@@ -1,3 +1,7 @@
+# Sobre a API Key
+
+Colocar sua API Key no local indicado nos arquivos environment.ts e environment.prod.ts, localizados no caminho src/environments.
+
 # JvWeather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
